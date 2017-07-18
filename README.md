@@ -7,7 +7,7 @@ Code style checking for Movinga Ruby repositories
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rubocop-movinga'
+gem "rubocop-movinga", github: "movinga/rubocop-movinga"
 ```
 
 And then execute:
