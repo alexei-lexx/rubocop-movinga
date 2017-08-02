@@ -1,6 +1,6 @@
 # Rubocop::Movinga
 
-Code style checking for Movinga Ruby repositories
+Code style checking for Movinga Ruby applications
 
 ## Installation
 
